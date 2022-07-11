@@ -1,0 +1,6 @@
+React is a javaScript Library
+UI as fast as possible 
+this is used to single page application
+means complete website in single page
+
+: React use virtual dom it means if you update any element or list it will load only that particular thing not complete page and the UI page will no affect
